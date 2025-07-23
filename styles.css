@@ -1,25 +1,16 @@
-
-
-body {
-    background-color: #f4f4f4;
-}
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-h1 {
-    background-color: #4CAF50;
-}
-
 html {
     font-size: 2em;
     color: #333;
     text-align: center;
+    background-color: burlywood;
+}
+
+body {
+}
+
+header {
+    background-color: brown;
+}
+
+footer {
 }
