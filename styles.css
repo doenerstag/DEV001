@@ -5,15 +5,14 @@ html {
     background-color: burlywood;
 }
 
-body {
-}
+body {}
 
 header {
     background-color: brown;
 }
 
-main {
-}
+main {}
 
 footer {
+    background-color: gainsboro;
 }
