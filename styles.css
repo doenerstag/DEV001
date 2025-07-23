@@ -1,8 +1,12 @@
+html {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+}
+
 body {
     background-color: #f4f4f4;
-    font-size: 2em;
     color: #ff0000;
-    text-align: center;
 }
 
 footer {
@@ -17,7 +21,4 @@ footer {
 
 h1 {
     background-color: #4CAF50;
-    font-size: 2em;
-    color: #333;
-    text-align: center;
 }
